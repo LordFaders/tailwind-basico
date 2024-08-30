@@ -3,5 +3,7 @@
 	"scss.lint.unknownAtRules": "ignore",
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode"
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"terminal.explorerKind": "integrated",
+	"terminal.integrated.automationProfile.osx": {}
 }
